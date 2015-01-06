@@ -3,6 +3,8 @@
 
 请前往此处 https://github.com/progit/progit2-zh 查看最新进展。
 
+这里 https://progit.org/translations 下载最新版本
+
 说明
 ====
 
